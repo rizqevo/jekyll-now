@@ -1,0 +1,8 @@
+---
+layout: post
+title: Embedding Youtube Video
+---
+
+Video content from youtube channel
+
+{% include oa9cnWTpqP8.html id=oa9cnWTpqP8 %}
