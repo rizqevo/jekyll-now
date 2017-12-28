@@ -4,5 +4,3 @@ title: Embedding Youtube Video
 ---
 
 Video content from youtube channel
-
-{% include youtubePlayer.html id=oa9cnWTpqP8 %}
